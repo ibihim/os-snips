@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Clipboard Timestamp
+GenericName=Timestamp to Clipboard
+Comment=Stores YYYYMMddHHMM into your Wayland clipboard
+Exec=cbts
+Terminal=true
+Categories=System;Monitor;ConsoleOnly;
+Keywords=system;process;task
